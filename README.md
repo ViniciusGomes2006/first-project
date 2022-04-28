@@ -3,7 +3,11 @@
 ![Preview](.github/preview.png)
 
 ```
-This project was made when I had the first contact with Node.js, I didn't get to delve too deep into Node.js, ejs was the highlight in this project, because the objective was to create a simple page using Node.js with some tabs, without having to enter another page and load other content.
+This project was made when I had the first contact with Node.js, 
+I didn't get to delve too deep into Node.js, ejs was the 
+highlight in this project, because the objective was to create 
+a simple page using Node.js with some tabs, without having to 
+enter another page and load other content.
 
 ```
 
